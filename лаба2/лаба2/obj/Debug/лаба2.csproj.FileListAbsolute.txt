@@ -1,0 +1,8 @@
+E:\С#\2 семестр\лаба2\лаба2\obj\Debug\лаба2.csproj.AssemblyReference.cache
+E:\С#\2 семестр\лаба2\лаба2\obj\Debug\лаба2.csproj.SuggestedBindingRedirects.cache
+E:\С#\2 семестр\лаба2\лаба2\obj\Debug\лаба2.csproj.CoreCompileInputs.cache
+E:\С#\2 семестр\лаба2\лаба2\bin\Debug\лаба2.exe.config
+E:\С#\2 семестр\лаба2\лаба2\bin\Debug\лаба2.exe
+E:\С#\2 семестр\лаба2\лаба2\bin\Debug\лаба2.pdb
+E:\С#\2 семестр\лаба2\лаба2\obj\Debug\лаба2.exe
+E:\С#\2 семестр\лаба2\лаба2\obj\Debug\лаба2.pdb

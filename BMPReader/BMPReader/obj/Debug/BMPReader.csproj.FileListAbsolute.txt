@@ -1,0 +1,16 @@
+E:\С#\2 семестр\BMPReader\BMPReader\bin\Debug\BMPReader.exe.config
+E:\С#\2 семестр\BMPReader\BMPReader\bin\Debug\BMPReader.exe
+E:\С#\2 семестр\BMPReader\BMPReader\bin\Debug\BMPReader.pdb
+E:\С#\2 семестр\BMPReader\BMPReader\obj\Debug\BMPReader.csproj.AssemblyReference.cache
+E:\С#\2 семестр\BMPReader\BMPReader\obj\Debug\BMPReader.csproj.SuggestedBindingRedirects.cache
+E:\С#\2 семестр\BMPReader\BMPReader\obj\Debug\BMPReader.csproj.CoreCompileInputs.cache
+E:\С#\2 семестр\BMPReader\BMPReader\obj\Debug\BMPReader.exe
+E:\С#\2 семестр\BMPReader\BMPReader\obj\Debug\BMPReader.pdb
+E:\С#\Лаба 2\BMPReader\BMPReader\bin\Debug\BMPReader.exe.config
+E:\С#\Лаба 2\BMPReader\BMPReader\bin\Debug\BMPReader.exe
+E:\С#\Лаба 2\BMPReader\BMPReader\bin\Debug\BMPReader.pdb
+E:\С#\Лаба 2\BMPReader\BMPReader\obj\Debug\BMPReader.csproj.AssemblyReference.cache
+E:\С#\Лаба 2\BMPReader\BMPReader\obj\Debug\BMPReader.csproj.SuggestedBindingRedirects.cache
+E:\С#\Лаба 2\BMPReader\BMPReader\obj\Debug\BMPReader.csproj.CoreCompileInputs.cache
+E:\С#\Лаба 2\BMPReader\BMPReader\obj\Debug\BMPReader.exe
+E:\С#\Лаба 2\BMPReader\BMPReader\obj\Debug\BMPReader.pdb
